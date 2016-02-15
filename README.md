@@ -1,0 +1,1 @@
+This is simple desktop client for pfsense captive portal
